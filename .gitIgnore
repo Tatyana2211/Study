@@ -1,0 +1,5 @@
+__pyCache__/
+*.py[cod]
+doker-compose.yaml
+log/
+resources/products.json
