@@ -1,5 +1,5 @@
 __pyCache__/
 *.py[cod]
-doker-compose.yaml
+docker-compose.yaml
 log/
 resources/products.json
